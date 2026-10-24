@@ -1,0 +1,8 @@
+{
+  "name": "claude-wrapped",
+  "version": "1.0.0",
+  "description": "Spotify-Wrapped-style year in review for your Claude Code usage, built entirely from your local history. Nothing is uploaded.",
+  "author": {"name": "Anas Khan"},
+  "license": "MIT",
+  "keywords": ["wrapped", "stats", "year-in-review", "analytics", "claude-code"]
+}

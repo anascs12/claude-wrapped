@@ -1,0 +1,4 @@
+claude-wrapped.html
+__pycache__/
+*.pyc
+.venv/
